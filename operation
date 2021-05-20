@@ -1,0 +1,8 @@
+brew install npm
+cd ~
+npx create-react-app react-intro
+cd react-intro
+npm start
+npm test
+vi nginx.conf
+vi Dockerfile
